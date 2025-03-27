@@ -1,0 +1,1 @@
+docker run --name <nom-image> -e <variable_environnement_a_changer> -d -p 80:80 <nom_de_l_image>
