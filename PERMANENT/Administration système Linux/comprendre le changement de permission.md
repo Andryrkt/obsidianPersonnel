@@ -1,12 +1,9 @@
 ## **🔹 Commande `chmod` : Modifier les permissions d'un fichier**
 
 Syntaxe :
-
-bash
-
-CopierModifier
-
-`chmod [options] mode fichier`
+```Bash
+chmod [options] mode fichier
+```
 
 Où **`mode`** représente les nouvelles permissions.
 
@@ -15,12 +12,10 @@ Où **`mode`** représente les nouvelles permissions.
 ### **🔍 Exemple : Modifier les droits pour un utilisateur spécifique**
 
 #### ✅ **Donner au propriétaire (`user`) tous les droits (`rwx`)**
+```Bash
+chmod u+rwx fichier.txt
+```
 
-bash
-
-CopierModifier
-
-`chmod u+rwx fichier.txt`
 
 ➡ **Signification** :
 

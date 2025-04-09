@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1a036ed9048fbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSI - formation/Administration système Linux/comprendre le changement de permission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "comprendre le changement de permission"
-            }
-          },
-          {
             "id": "72da34c517d71958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSI - formation/réseau/TD1.md",
+                "file": "INSI - formation/TP Chapitre 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TD1"
-            }
-          },
-          {
-            "id": "3af55d2d07e07376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSI - formation/Administration système Linux/droit ou permission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "droit ou permission"
+              "title": "TP Chapitre 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.5,
+    "collapsed": true
   },
   "right": {
     "id": "451da7706f4023a8",
@@ -211,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,7 +192,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -231,44 +202,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4c44f93854359fc",
+  "active": "72da34c517d71958",
   "lastOpenFiles": [
-    "travail personnel/wsl2",
-    "INSI - formation/maintenance et réseau.md",
-    "INSI - formation/réseau/TD1.md",
-    "INSI - formation/réseau",
+    "TP Chapitre 2.pdf",
+    "PERMANENT/Administration système Linux/Résultat de ps aux.md",
+    "INSI - formation/TP Chapitre 2.md",
     "INSI - formation/Administration système Linux.md",
-    "INSI - formation/Administration système Linux/TP2.md",
-    "INSI - formation/Administration système Linux/droit ou permission.md",
-    "INSI - formation/Administration système Linux/comprendre le changement de permission.md",
-    "INSI - formation/Administration système Linux/comprendre le nombre de lien.md",
-    "INSI - formation/Administration système Linux/symbole.md",
-    "INSI - formation/Administration système Linux/création d'un utilisateur et attribution de mot de passe.md",
-    "travail personnel/Sans titre.md",
-    "travail personnel/programation shell",
-    "travail personnel/formation postgresSql",
-    "travail personnel/formation git",
-    "INBOX/note.md",
-    "INBOX/idee.md",
-    "travail personnel/formation réseaux/Model OSI.md",
-    "travail personnel/formation Docker pour DevOps/Intro Docker.md",
-    "travail personnel/formation Docker pour DevOps/Image Docker.md",
-    "travail personnel/formation Docker pour DevOps/Docker labs.md",
-    "travail personnel",
-    "INSI - formation/Administration système Linux/supprimer un utilisateur.md",
-    "INSI - formation/Administration système Linux/liste les utilisateurs.md",
-    "INSI - formation/Administration système Linux/liste les groupes.md",
-    "INSI - formation/Administration système Linux/Index.md",
-    "INSI - formation/Administration système Linux/supprimer un groupe.md",
-    "INSI - formation/Administration système Linux/changer kali linux en français.md",
-    "INSI - formation/administration Windows serveur.md",
-    "Parfeux/desactivation d'accés à distance.md",
-    "Parfeux",
+    "PERMANENT/Administration système Linux/JOB.md",
+    "PERMANENT/Administration système Linux/structure de fichier.md",
+    "PERMANENT/Administration système Linux/symbole pipe comment l'utiliser.md",
+    "PERMANENT/Administration système Linux/droit ou permission.md",
+    "PERMANENT/Administration système Linux/comprendre le changement de permission.md",
+    "RESOURCES/model condition general d'utilisation.md",
+    "travail personnel/formation php/callable.md",
+    "INSI - formation/maintenance et réseau.md",
+    "travail personnel/formation php",
     "INSI - formation/Dockerisation.md",
-    "INSI - formation/Administration système Linux",
-    "travail personnel/formation Docker pour DevOps",
-    "travail personnel/formation réseaux",
-    "MOC",
+    "INSI - formation/administration Windows serveur.md",
+    "travail personnel/programation shell/programations shell bash Linux et Unix.md",
+    "travail personnel/formation Docker pour DevOps/Image Docker.md",
+    "Personnel/30212520",
+    "Personnel/~$mois Avril.xlsx",
+    "travail personnel/formation Docker pour DevOps/Sans titre.md",
+    "travail personnel/formation Docker pour DevOps/Docker labs.md",
+    "travail personnel/formation Docker pour DevOps/Intro Docker.md",
+    "travail personnel/windows server/comment telecharger win server.md",
+    "travail personnel/windows server",
+    "Excel 2025-03-30 08.17.49.sheet.md",
+    "Personnel/mois Avril.xlsx",
+    "Personnel",
+    "Nouveau dossier",
+    "PERMANENT/Administration système Linux/changer kali linux en français.md",
+    "travail personnel/programation shell/scripts shell linux.md",
+    "travail personnel/wsl2/interface graphique pour kali linux.md",
+    "travail personnel/wsl2/Introduction à wsl.md",
+    "PERMANENT/Administration système Linux/nano.md",
+    "travail personnel/wsl2",
+    "INSI - formation/réseau",
+    "travail personnel/programation shell",
     "3.png",
     "Sans titre 1.canvas",
     "Sans titre.canvas"

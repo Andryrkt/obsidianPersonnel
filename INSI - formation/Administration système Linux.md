@@ -151,3 +151,28 @@ sudo groupdel groupe_etudiants
 
 email andefasana ilay devoir TP2
 poonrhm@gmail.com 
+
+
+## 05/04/2025 Processus et services
+processus c'est une tache
+service c'est une service
+
+|                        | processus                    | service                  |     |
+| ---------------------- | ---------------------------- | ------------------------ | --- |
+| Déclenchement          | Manuel                       | Automatique au démarrage |     |
+| Durée de vie           | temporaire                   | permanent                |     |
+| Mode de fonctionnement | premier plan ou arrière plan | Arrière plan             |     |
+| exemple                | navigateur                   | cron, SSH, Serveur web   |     |
+| commande               | ps, top, htop                |                          |     |
+
+identification de processus PID : Processus Identifière
+identification de User  UID: User Identifiere
+identification de Groupe GUID
+
+afficher les processus: ps
+afficher les processus qui consomme : top
+tuer un processus 
+- kill -9 PID
+- pkill -9 nom_processus
+
+

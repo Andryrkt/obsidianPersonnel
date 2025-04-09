@@ -53,5 +53,5 @@ echo "nom_utilisateur:mot_de_passe" | sudo chpasswd
 ```
 - `nom_utilisateur` → Le nom de l'utilisateur à modifier.
 - `mot_de_passe` → Le nouveau mot de passe attribué.
-- `|` (pipe) → Envoie la sortie de `echo` comme entrée de `chpasswd`. voire  [[symbole]]
+- `|` (pipe) → Envoie la sortie de `echo` comme entrée de `chpasswd`. voire  [[symbole pipe comment l'utiliser]]
 - `sudo` → Requis car **changer un mot de passe nécessite les droits root**.

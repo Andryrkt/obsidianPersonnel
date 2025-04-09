@@ -18,7 +18,7 @@ d'après l'IA (deepseek):
 - **Switch** : Connecte les appareils dans un réseau local.
 - **RJ45** : Connecteur pour câbles Ethernet.
 - **Adresse IP** : Identifiant unique pour les appareils sur un réseau.
-- - **Protocole** : Règles de communication entre appareils.
+- **Protocole** : Règles de communication entre appareils.
 - **Pare-feu** : Système de sécurité pour filtrer le trafic.
 - **Encapsulation** : Ajout d'informations pour la transmission des données.
 - **TCP** : Protocole fiable pour la transmission de données.
@@ -64,5 +64,43 @@ risque: perte de  donnée dans le cloud si
 inona no ilaivana Reseau
 - transfert de donnée
 - stockage de donnée
+- communication
 
 toerana ametrahana serveur : armoire de brassage
+
+
+## 05/04/2025 
+Chapitre 0: IMPORTANCE
+- historique
+- réalité
+- evolution
+Chapitre 1: Generalité
+- Mots clé
+- définition
+- role
+Chapitre 2: ORGANISATION
+appareil informatique ou moyen autonomes de calcules
+routeur relier deux réseaux
+switch relier les appareil local (commutateur)
+
+Basique
+TOPOLOGIE EN BUS
+TOPOLOGIE EN ETOILE
+TOPOLOGIE EN ANNEAU
+
+hybride
+TOPOLOGIE MAILLE
+TOPOLOGIE HIERARCHIQUE ou ARBRE
+
+vocabulaire
+- redondance
+- basculement
+
+Organisation topologie
+organisation architecture
+	-client serveur
+	- pear to pear (un appareil peut être à la foi client et serveur)
+Organisation MODEL OSI et MODEL TCP/IP
+physique = Matériel (Hardware)
+logique = logiciel (software)
+

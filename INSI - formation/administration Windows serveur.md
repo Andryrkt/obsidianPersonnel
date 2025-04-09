@@ -31,9 +31,9 @@ gpedit.msc
 mot de passe : Mi@0_8A~.
 
 ## 22/03/2025 ACTIVE DIRECTORY
-c'est une annuaire pour un système d'exploitation windo
+c'est une annuaire pour un système d'exploitation windows
 
-identification : procesuce pour connaitre un machine ou un utilisateur
+identification : procécuce pour connaitre un machine ou un utilisateur
 authentification : verification de l'utilisateur (mots de passe)
 autorisation : verification de permission 
 
@@ -47,17 +47,17 @@ rôle active directory
 mampiasa active directory roa
 fileover ??
 
-concepte clés dans un active directory
+concept clés dans un active directory
 - domaine et forêts (DN)
 	- exemple de domaine : domaine.com
 	- exemple de forêts : ensemble de domaine
-- contrôleur de domaine (Domaine Controllers DC)
+- contrôleur de domaine (Domaine Controller DC)
 - objets (AD)
-- organizational Units (OU)
+- organizational Unit (OU)
 - group policies
 - Authentification et autorisation
 
-representation d'un domaine est un triangle
+représentation d'un domaine est un triangle
 
 ### composants du schéma AD
 - classes d'objets
@@ -81,5 +81,20 @@ structure de l'AD
 - Objet
 
 ultravnc : logiciel pour connecter à distance
+url : https://forum.uvnc.com/viewtopic.php?t=38037
 
 
+## 05/04/2025
+### ajout ordinateur windows dans un domaine
+il nous faut:
+- contrôleur de domaine
+- Nom de domaine
+- compte utilisateur dans le domaine
+- configuration réseau
+- version de windows compatible
+
+partage de fichier (objectif c'est d'ajouter ultraVnc dans le serveur)
+activer le bidirectionnel dans virtual box : peripherie > glisser deposer > bidirectionnel 
+
+adresse ip serveur : 192.168.88.58
+mot de passe : azn
